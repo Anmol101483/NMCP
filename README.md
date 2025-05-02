@@ -1,15 +1,4 @@
-Name. Ranpise Anmol 
-Roll No. SEL66
-Date. 03/03/2025
 
-Input
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  3 15:06:59 2025
-
-@author: EL-COMP LAB-2
-"""
 
 "Program for 4th order RK method"
 
